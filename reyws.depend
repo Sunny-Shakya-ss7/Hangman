@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1582561833 source:c:\reyws\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<vector>
+	<time.h>
+	"wordFile.h"
+
+1556878693 c:\reyws\student.h
+
+1556878663 source:c:\reyws\student.cpp
+	"student.h"
+	<iostream>
+
+1556881477 c:\reyws\birthday.h
+	<iostream>
+
+1582562912 source:c:\reyws\wordfile.cpp
+	"wordFile.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1582562875 c:\reyws\wordfile.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+
